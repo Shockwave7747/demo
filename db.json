@@ -184,7 +184,7 @@
                 "columnID": 11,
                 "columnName": "11",
                 "seatNo": "A11",
-                "isPassage": false,
+                "isPassage": true,
                 "isActive": true,
                 "ferryID": 4,
                 "ferryName": "Test 1"
@@ -252,7 +252,7 @@
                 "columnID": 15,
                 "columnName": "15",
                 "seatNo": "A15",
-                "isPassage": false,
+                "isPassage": true,
                 "isActive": true,
                 "ferryID": 4,
                 "ferryName": "Test 1"
