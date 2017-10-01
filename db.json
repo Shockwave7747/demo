@@ -4594,8 +4594,51 @@
                 "seatID": 2284
             }
         ],
-        "blockedSeats": [],
-        "bookedSeats": [],
+        "blockedSeats": [{
+                "seatID": 2049
+            },
+            {
+                "seatID": 2057
+            },
+            {
+                "seatID": 2058
+            },
+            {
+                "seatID": 2059
+            },
+            {
+                "seatID": 2060
+            },
+            {
+                "seatID": 2064
+            },
+            {
+                "seatID": 2065
+            }],
+        "bookedSeats": [{
+                "seatID": 2259
+            },
+            {
+                "seatID": 2260
+            },
+            {
+                "seatID": 2264
+            },
+            {
+                "seatID": 2265
+            },
+            {
+                "seatID": 2266
+            },
+            {
+                "seatID": 2267
+            },
+            {
+                "seatID": 2283
+            },
+            {
+                "seatID": 2284
+            }],
         "seatFares": [
             {
                 "categoryFareID": 99,
