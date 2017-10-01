@@ -14,7 +14,7 @@
                 "columnID": 1,
                 "columnName": "1",
                 "seatNo": "A1",
-                "isPassage": false,
+                "isPassage": true,
                 "isActive": true,
                 "ferryID": 4,
                 "ferryName": "Test 1"
@@ -31,7 +31,7 @@
                 "columnID": 2,
                 "columnName": "2",
                 "seatNo": "A2",
-                "isPassage": false,
+                "isPassage": true,
                 "isActive": true,
                 "ferryID": 4,
                 "ferryName": "Test 1"
@@ -643,7 +643,7 @@
                 "columnID": 13,
                 "columnName": "13",
                 "seatNo": "B13",
-                "isPassage": false,
+                "isPassage": true,
                 "isActive": true,
                 "ferryID": 4,
                 "ferryName": "Test 1"
@@ -660,7 +660,7 @@
                 "columnID": 14,
                 "columnName": "14",
                 "seatNo": "B14",
-                "isPassage": false,
+                "isPassage": true,
                 "isActive": true,
                 "ferryID": 4,
                 "ferryName": "Test 1"
@@ -694,7 +694,7 @@
                 "columnID": 16,
                 "columnName": "16",
                 "seatNo": "B16",
-                "isPassage": false,
+                "isPassage": true,
                 "isActive": true,
                 "ferryID": 4,
                 "ferryName": "Test 1"
