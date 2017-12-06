@@ -2,23 +2,7 @@
     "success": true,
     "data": {
         "seatLayout": [
-            {
-                "seatID": 2038,
-                "classID": 1,
-                "className": "Premium",
-                "seatTypeID": 2,
-                "seatTypeName": "Non-Window",
-                "colorCode": "#007bbd",
-                "rowId": 1,
-                "rowName": "A",
-                "columnID": 1,
-                "columnName": "",
-                "seatNo": "A",
-                "isPassage": true,
-                "isActive": true,
-                "ferryID": 5,
-                "ferryName": "Live ferry"
-            },
+            
             {
                 "seatID": 2039,
                 "classID": 1,
